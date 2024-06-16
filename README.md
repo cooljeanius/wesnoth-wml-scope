@@ -22,8 +22,8 @@ Command line flags passed to the `wmlscope` tool can be specified
 with the `flags` parameter. By default, the `-u` flag is passed,
 so that unresolved macro references and other issues within WML files
 are reported. When overriding the default value, consider adding `-u`
-for a in-depth issues report. See the `wmlscope` documentation for
-a complete list of supported flags.
+for a in-depth issues report. See [the `wmlscope` documentation](https://wiki.wesnoth.org/Maintenance_Tools#wmlscope)
+for a complete list of supported flags.
 
 ### Examples
 
